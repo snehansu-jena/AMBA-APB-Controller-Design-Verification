@@ -3,7 +3,7 @@
 module APB_Protocol(
           input        PCLK, PRESETn, transfer, READ_WRITE,
 		  input [7:0]  apb_write_paddr,
-		  input [8:0]  apb_read_paddr;
+		  input [8:0]  apb_read_paddr
 		  output       PSLVERR,
 		  output [7:0] apb_read_data_out
 		  );
