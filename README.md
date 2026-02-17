@@ -70,24 +70,24 @@ IDLE → SETUP → ACCESS → IDLE
 
 
 🎯 Why This Project Is Useful
-Shows protocol-level RTL understanding
+- Shows protocol-level RTL understanding
 
-Demonstrates FSM design
+- Demonstrates FSM design
 
-Suitable for VLSI / RTL / DV engineer portfolios
+- Suitable for VLSI / RTL / DV engineer portfolios
 
-Strong base for SystemVerilog or UVM extensions
+- Strong base for SystemVerilog or UVM extensions
 
 🔮 Planned Improvements
- PSLVERR support
+ - PSLVERR support
 
- Multiple slave support
+- Multiple slave support
 
- Parameterized data/address width
+- Parameterized data/address width
 
- SystemVerilog Assertions (SVA)
+- SystemVerilog Assertions (SVA)
 
- UVM-based verification environment
+- UVM-based verification environment
 
  
 
