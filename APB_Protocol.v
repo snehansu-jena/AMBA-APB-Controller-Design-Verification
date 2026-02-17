@@ -23,8 +23,7 @@ module APB_Protocol(
 
     // FIXED: safe PRDATA mux
     assign PRDATA = READ_WRITE ? 
-                    (PADDR[8] ? PRDATA2 : PRDATA1) : 
-                    8'b0;
+                    (PADDR[8] ? PRDATA2 : PRDATA1) :  8'b0;
 
     master_bridge dut_mas (
         .apb_write_paddr(apb_write_paddr),
