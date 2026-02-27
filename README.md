@@ -2,7 +2,7 @@
 
 🚀 A clean, synthesizable, and protocol-accurate implementation of the **AMBA Advanced Peripheral Bus (APB)** using **Verilog HDL**.
 
-This repository is built to demonstrate **real RTL design skills**, not toy examples.
+This repository is built to demonstrate **real RTL design skills**
 
 ---
 
